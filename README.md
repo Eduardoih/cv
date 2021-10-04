@@ -1,2 +1,2 @@
 # cv
-A page built with HTML and CSS styling.
+A page built only with HTML.
